@@ -1,4 +1,4 @@
-# Linear_Regression_Detailed_Implementation
+# Linear Regression Detailed Implementation
 
 This repo has detailed explanation of linear regression over sample data with one predictor.
 
